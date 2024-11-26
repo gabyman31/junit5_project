@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="btmatthews.hamcrest.matchers" type="repository">
+    <properties maven-id="com.btmatthews.hamcrest:hamcrest-matchers:1.0.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/btmatthews/hamcrest/hamcrest-matchers/1.0.0/hamcrest-matchers-1.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-all/1.1/hamcrest-all-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
